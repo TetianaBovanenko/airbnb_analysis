@@ -77,3 +77,15 @@ The following visualizations were created to support the analysis:
 1. Clone the repository:
    ```bash
    git clone https://github.com/yourusername/airbnb-paris-analysis.git
+
+2. Navigate to the project directory:
+   ```bash
+   cd airbnb-paris-analysis
+
+3. Install the required libraries:
+   ```bash
+   pip install -r requirements.txt
+
+4. Run the Jupyter Notebook:
+   ```bash
+   jupyter notebook airbnb_analysis.ipynb
